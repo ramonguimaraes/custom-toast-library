@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="error">Error Icon</string>
+    <string name="success">Success Icon</string>
+    <string name="warning">Warning Icon</string>
+    <string name="info">Information Icon</string>
+</resources>
